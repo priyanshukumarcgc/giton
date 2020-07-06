@@ -1,3 +1,3 @@
 def main():
-    pass
+    ''' check whether merge conflicys occur'''
 main()
