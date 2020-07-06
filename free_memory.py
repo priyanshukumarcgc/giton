@@ -1,3 +1,4 @@
 def main():
-    pass
+print("Everything is okay")
+pass
 main()
