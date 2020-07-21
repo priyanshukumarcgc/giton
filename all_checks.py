@@ -6,7 +6,7 @@ def check_rebot():
 #this is just for print pk name of author
 def print1():
     print("hii this is pk")
-
+#this is main fuction
 def main():
     print1()
     if check_rebot():
