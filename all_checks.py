@@ -4,8 +4,11 @@ def check_rebot():
     """returns true if computer has a pending rebot request ."""
     return os.path.exists("run/rebot-required")
 
+def print1():
+    print("hii this is pk")
     
 def main():
+    print1()
     if check_rebot():
         print("pending rebot.")
         sys.exit(1)
