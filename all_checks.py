@@ -7,6 +7,8 @@ def check_rebot():
 def print1():
     print("hii this is pk")
 #this is main fuction
+def odd_even():
+    #function for odd_even
 def main():
     print1()
     if check_rebot():
